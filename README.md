@@ -1,4 +1,4 @@
-# ☕ Dashboard de Ventas y Comportamiento de Clientes - Power BI
+# Dashboard de Ventas y Comportamiento de Clientes - Power BI ☕
 
 ## Objetivo
 Analizar el rendimiento de ventas y el comportamiento de clientes en una cafetería utilizando Power BI. 
