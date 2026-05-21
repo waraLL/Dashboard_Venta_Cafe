@@ -17,3 +17,6 @@ Analizar el rendimiento de ventas y el comportamiento de clientes en una cafeter
 ## Hallazgos principales
 - La mayoría de transacciones se realizan con tarjeta.
 - Los clientes recurrentes generan el mayor volumen de ventas.
+
+
+Fuente de datos, https://www.kaggle.com/datasets/reignrichard/coffee-store-sales
